@@ -10,10 +10,10 @@
   // 关闭预览 URL
   "preview_urls": false,
   
-  // 自定义路由
+  // 自定义路由（子域名）
   "routes": [
     {
-      "pattern": "starbrowser-ai.zztxer.dpdns.org",
+      "pattern": "starbrowse-ai.zztxer.dpdns.org",
       "zone_name": "zztxer.dpdns.org"
     }
   ],
