@@ -1,5 +1,5 @@
 {
-  "name": "starbrowser-ai-service",
+  "name": "starbrowse-ai-service",
   "main": "src/index.ts",
   "compatibility_date": "2026-09-21",
   "compatibility_flags": ["nodejs_compat"],
